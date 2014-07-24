@@ -1,0 +1,140 @@
+{
+    "packages_cache": {
+        "https://github.com/rahul-ramadas/Shell-Turtlestein": [
+            {
+                "author": "rahul-ramadas",
+                "description": "Plugin for running arbitrary shell commands in Sublime Text",
+                "name": "Shell Turtlestein",
+                "releases": [
+                    {
+                        "date": "2014-07-23 12:00:00",
+                        "platforms": [
+                            "*"
+                        ],
+                        "sublime_text": ">=3000",
+                        "url": "https://codeload.github.com/rahul-ramadas/Shell-Turtlestein/zip/master",
+                        "version": "1.0.0"
+                    }
+                ]
+            }
+        ],
+        "https://github.com/rahul-ramadas/SublimeAllAutocomplete": [
+            {
+                "author": "rahul-ramadas",
+                "description": "Extend Sublime autocompletion to find matches in all open files of the current window",
+                "name": "All Autocomplete",
+                "releases": [
+                    {
+                        "date": "2014-07-23 12:00:00",
+                        "platforms": [
+                            "*"
+                        ],
+                        "sublime_text": "*",
+                        "url": "https://codeload.github.com/rahul-ramadas/SublimeAllAutocomplete/zip/master",
+                        "version": "1.0.0"
+                    }
+                ]
+            }
+        ],
+        "https://github.com/rahul-ramadas/sublime-goto-open-file": [
+            {
+                "author": "rahul-ramadas",
+                "description": "Plugin for Sublime Text that opens a quick panel for switching between tabs",
+                "name": "Goto Open File",
+                "releases": [
+                    {
+                        "date": "2014-07-23 12:00:00",
+                        "platforms": [
+                            "*"
+                        ],
+                        "sublime_text": "*",
+                        "url": "https://codeload.github.com/rahul-ramadas/sublime-goto-open-file/zip/master",
+                        "version": "1.0.0"
+                    }
+                ]
+            }
+        ],
+        "https://github.com/rahul-ramadas/QuickFindEverywhere": [
+            {
+                "author": "rahul-ramadas",
+                "description": "Sublime Text 3 plugin to quickly find text everywhere",
+                "name": "Quick Find Everywhere",
+                "releases": [
+                    {
+                        "date": "2014-07-23 12:00:00",
+                        "platforms": [
+                            "*"
+                        ],
+                        "sublime_text": "*",
+                        "url": "https://codeload.github.com/rahul-ramadas/QuickFindEverywhere/zip/master",
+                        "version": "1.0.0"
+                    }
+                ]
+            }
+        ],
+        "https://github.com/rahul-ramadas/SublimeFunctionNameDisplay": [
+            {
+                "author": "rahul-ramadas",
+                "description": "Display current class and function name on the status bar",
+                "name": "Function Name Display",
+                "releases": [
+                    {
+                        "date": "2014-07-23 12:00:00",
+                        "platforms": [
+                            "*"
+                        ],
+                        "sublime_text": "*",
+                        "url": "https://codeload.github.com/rahul-ramadas/SublimeFunctionNameDisplay/zip/master",
+                        "version": "1.0.0"
+                    }
+                ]
+            }
+        ],
+        "https://github.com/rahul-ramadas/local-history": [
+            {
+                "author": "rahul-ramadas",
+                "description": "A Sublime Text 2/3 plugin for maintaining local history of files",
+                "name": "Local History",
+                "releases": [
+                    {
+                        "date": "2014-07-23 12:00:00",
+                        "platforms": [
+                            "*"
+                        ],
+                        "sublime_text": "*",
+                        "url": "https://codeload.github.com/rahul-ramadas/local-history/zip/master",
+                        "version": "1.0.0"
+                    }
+                ]
+            }
+        ],
+        "https://github.com/rahul-ramadas/BagOfTricks": [
+            {
+                "author": "rahul-ramadas",
+                "description": "A collection of simple Sublime Text 3 commands",
+                "name": "Bag of Tricks",
+                "releases": [
+                    {
+                        "date": "2014-07-23 12:00:00",
+                        "platforms": [
+                            "*"
+                        ],
+                        "sublime_text": "*",
+                        "url": "https://codeload.github.com/rahul-ramadas/BagOfTricks/zip/master",
+                        "version": "1.0.0"
+                    }
+                ]
+            }
+        ]
+    },
+    "repositories": [
+        "https://github.com/rahul-ramadas/BagOfTricks",
+        "https://github.com/rahul-ramadas/Shell-Turtlestein",
+        "https://github.com/rahul-ramadas/SublimeAllAutocomplete",
+        "https://github.com/rahul-ramadas/sublime-goto-open-file",
+        "https://github.com/rahul-ramadas/QuickFindEverywhere",
+        "https://github.com/rahul-ramadas/SublimeFunctionNameDisplay",
+        "https://github.com/rahul-ramadas/local-history"
+    ],
+    "schema_version": "2.0"
+}
