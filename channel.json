@@ -64,13 +64,13 @@
                 "readme": "https://raw.githubusercontent.com/rahul-ramadas/Shell-Turtlestein/master/README.md",
                 "releases": [
                     {
-                        "date": "2014-07-23 12:00:00",
+                        "date": "2014-08-06 12:00:00",
                         "platforms": [
                             "*"
                         ],
                         "sublime_text": ">=3000",
                         "url": "https://codeload.github.com/rahul-ramadas/Shell-Turtlestein/zip/master",
-                        "version": "1.0.0"
+                        "version": "1.1.0"
                     }
                 ]
             }
