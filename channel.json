@@ -4,12 +4,12 @@
             {
                 "author": "rahul-ramadas",
                 "buy": null,
-                "description": "Platform-specific settings",
+                "description": "Per-platform settings",
                 "donate": null,
                 "homepage": "https://github.com/rahul-ramadas/SublimePlatformSettings",
                 "issues": "https://github.com/rahul-ramadas/SublimePlatformSettings/issues",
                 "labels": [],
-                "name": "Platform-specific Settings",
+                "name": "Per Platform Settings",
                 "previous_names": [],
                 "readme": "https://raw.githubusercontent.com/rahul-ramadas/SublimePlatformSettings/master/README.md",
                 "releases": [
