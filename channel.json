@@ -174,31 +174,6 @@
                     }
                 ]
             }
-        ],
-        "https://github.com/rahul-ramadas/SublimePlatformSettings": [
-            {
-                "author": "rahul-ramadas",
-                "buy": null,
-                "description": "Platform-specific settings",
-                "donate": null,
-                "homepage": "https://github.com/rahul-ramadas/SublimePlatformSettings",
-                "issues": "https://github.com/rahul-ramadas/SublimePlatformSettings/issues",
-                "labels": [],
-                "name": "Platform-specific Settings",
-                "previous_names": [],
-                "readme": "https://raw.githubusercontent.com/rahul-ramadas/SublimePlatformSettings/master/README.md",
-                "releases": [
-                    {
-                        "date": "2014-08-17 13:00:00",
-                        "platforms": [
-                            "*"
-                        ],
-                        "sublime_text": "*",
-                        "url": "https://codeload.github.com/rahul-ramadas/SublimePlatformSettings/zip/master",
-                        "version": "1.2.0"
-                    }
-                ]
-            }
         ]
     },
     "repositories": [
@@ -208,8 +183,7 @@
         "https://github.com/rahul-ramadas/SublimeAllAutocomplete",
         "https://github.com/rahul-ramadas/SublimeFunctionNameDisplay",
         "https://github.com/rahul-ramadas/local-history",
-        "https://github.com/rahul-ramadas/sublime-goto-open-file",
-        "https://github.com/rahul-ramadas/SublimePlatformSettings"
+        "https://github.com/rahul-ramadas/sublime-goto-open-file"
     ],
     "schema_version": "2.0"
 }
