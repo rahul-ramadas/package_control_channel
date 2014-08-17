@@ -1,5 +1,30 @@
 {
     "packages_cache": {
+        "https://github.com/rahul-ramadas/SublimePlatformSettings": [
+            {
+                "author": "rahul-ramadas",
+                "buy": null,
+                "description": "Platform-specific settings",
+                "donate": null,
+                "homepage": "https://github.com/rahul-ramadas/SublimePlatformSettings",
+                "issues": "https://github.com/rahul-ramadas/SublimePlatformSettings/issues",
+                "labels": [],
+                "name": "Platform-specific Settings",
+                "previous_names": [],
+                "readme": "https://raw.githubusercontent.com/rahul-ramadas/SublimePlatformSettings/master/README.md",
+                "releases": [
+                    {
+                        "date": "2014-08-16 12:00:00",
+                        "platforms": [
+                            "*"
+                        ],
+                        "sublime_text": "*",
+                        "url": "https://codeload.github.com/rahul-ramadas/SublimePlatformSettings/zip/master",
+                        "version": "1.0.0"
+                    }
+                ]
+            }
+        ],
         "https://github.com/rahul-ramadas/BagOfTricks": [
             {
                 "author": "rahul-ramadas",
