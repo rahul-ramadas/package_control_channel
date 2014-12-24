@@ -14,13 +14,13 @@
                 "readme": "https://raw.githubusercontent.com/rahul-ramadas/BagOfTricks/master/README.md",
                 "releases": [
                     {
-                        "date": "2014-08-18 12:00:00",
+                        "date": "2014-12-23 12:00:00",
                         "platforms": [
                             "*"
                         ],
                         "sublime_text": "*",
                         "url": "https://codeload.github.com/rahul-ramadas/BagOfTricks/zip/master",
-                        "version": "1.2.0"
+                        "version": "1.3.0"
                     }
                 ]
             }
