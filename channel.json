@@ -25,6 +25,31 @@
                 ]
             }
         ],
+        "https://github.com/rahul-ramadas/FileHistory": [
+            {
+                "author": "rahul-ramadas",
+                "buy": null,
+                "description": "Provides access to the history of recently accessed files - project-wise or globally",
+                "donate": null,
+                "homepage": "https://github.com/rahul-ramadas/FileHistory",
+                "issues": "https://github.com/rahul-ramadas/FileHistory/issues",
+                "labels": ["file navigation"],
+                "name": "File History",
+                "previous_names": [],
+                "readme": "https://raw.githubusercontent.com/rahul-ramadas/FileHistory/master/README.md",
+                "releases": [
+                    {
+                        "date": "2016-03-27 12:00:00",
+                        "platforms": [
+                            "*"
+                        ],
+                        "sublime_text": "*",
+                        "url": "https://codeload.github.com/rahul-ramadas/FileHistory/zip/master",
+                        "version": "1.0.0"
+                    }
+                ]
+            }
+        ],
         "https://github.com/rahul-ramadas/QuickFindEverywhere": [
             {
                 "author": "rahul-ramadas",
