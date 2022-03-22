@@ -39,13 +39,13 @@
                 "readme": "https://raw.githubusercontent.com/rahul-ramadas/QuickFindEverywhere/master/README.md",
                 "releases": [
                     {
-                        "date": "2021-04-21 12:00:00",
+                        "date": "2022-03-22 12:00:00",
                         "platforms": [
                             "*"
                         ],
                         "sublime_text": "*",
                         "url": "https://codeload.github.com/rahul-ramadas/QuickFindEverywhere/zip/master",
-                        "version": "1.0.4"
+                        "version": "1.0.5"
                     }
                 ]
             }
