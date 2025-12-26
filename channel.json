@@ -125,31 +125,6 @@
                 ]
             }
         ],
-        "https://github.com/rahul-ramadas/local-history": [
-            {
-                "author": "rahul-ramadas",
-                "buy": null,
-                "description": "A Sublime Text 2/3 plugin for maintaining local history of files",
-                "donate": null,
-                "homepage": "https://github.com/rahul-ramadas/local-history",
-                "issues": "https://github.com/rahul-ramadas/local-history/issues",
-                "labels": [],
-                "name": "Local History",
-                "previous_names": [],
-                "readme": "https://raw.githubusercontent.com/rahul-ramadas/local-history/master/README.md",
-                "releases": [
-                    {
-                        "date": "2016-01-09 12:00:00",
-                        "platforms": [
-                            "*"
-                        ],
-                        "sublime_text": "*",
-                        "url": "https://codeload.github.com/rahul-ramadas/local-history/zip/master",
-                        "version": "1.1.1"
-                    }
-                ]
-            }
-        ],
         "https://github.com/rahul-ramadas/sublime-goto-open-file": [
             {
                 "author": "rahul-ramadas",
@@ -178,13 +153,11 @@
     },
     "repositories": [
         "https://github.com/rahul-ramadas/BagOfTricks",
-        "https://github.com/rahul-ramadas/local-history",
         "https://github.com/rahul-ramadas/QuickFindEverywhere",
         "https://github.com/rahul-ramadas/Shell-Turtlestein",
         "https://github.com/rahul-ramadas/sublime-goto-open-file",
         "https://github.com/rahul-ramadas/SublimeAllAutocomplete",
         "https://github.com/rahul-ramadas/SublimeFunctionNameDisplay",
-        "https://github.com/rahul-ramadas/QuickSettings"
     ],
     "schema_version": "3.0.0"
 }
