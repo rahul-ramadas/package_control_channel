@@ -175,31 +175,6 @@
                 ]
             }
         ],
-        "https://github.com/rahul-ramadas/QuickSettings": [
-            {
-                "author": "rahul-ramadas",
-                "buy": null,
-                "description": "Quickly edit Sublime Text preferences using the Command Palette.",
-                "donate": null,
-                "homepage": "https://github.com/rahul-ramadas/QuickSettings",
-                "issues": "https://github.com/rahul-ramadas/QuickSettings/issues",
-                "labels": [],
-                "name": "QuickSettings",
-                "previous_names": [],
-                "readme": "https://raw.githubusercontent.com/rahul-ramadas/QuickSettings/master/README.md",
-                "releases": [
-                    {
-                        "date": "2021-11-21 12:00:00",
-                        "platforms": [
-                            "*"
-                        ],
-                        "sublime_text": "*",
-                        "url": "https://codeload.github.com/rahul-ramadas/QuickSettings/zip/master",
-                        "version": "1.0.0"
-                    }
-                ]
-            }
-        ]
     },
     "repositories": [
         "https://github.com/rahul-ramadas/BagOfTricks",
