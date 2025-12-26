@@ -75,31 +75,6 @@
                 ]
             }
         ],
-        "https://github.com/rahul-ramadas/SublimeAllAutocomplete": [
-            {
-                "author": "rahul-ramadas",
-                "buy": null,
-                "description": "Extend Sublime autocompletion to find matches in all open files of the current window",
-                "donate": null,
-                "homepage": "https://github.com/rahul-ramadas/SublimeAllAutocomplete",
-                "issues": "https://github.com/rahul-ramadas/SublimeAllAutocomplete/issues",
-                "labels": [],
-                "name": "All Autocomplete",
-                "previous_names": [],
-                "readme": "https://raw.githubusercontent.com/rahul-ramadas/SublimeAllAutocomplete/master/README.md",
-                "releases": [
-                    {
-                        "date": "2014-07-23 12:00:00",
-                        "platforms": [
-                            "*"
-                        ],
-                        "sublime_text": "*",
-                        "url": "https://codeload.github.com/rahul-ramadas/SublimeAllAutocomplete/zip/master",
-                        "version": "1.0.0"
-                    }
-                ]
-            }
-        ],
         "https://github.com/rahul-ramadas/SublimeFunctionNameDisplay": [
             {
                 "author": "rahul-ramadas",
@@ -182,7 +157,6 @@
         "https://github.com/rahul-ramadas/QuickFindEverywhere",
         "https://github.com/rahul-ramadas/Shell-Turtlestein",
         "https://github.com/rahul-ramadas/sublime-goto-open-file",
-        "https://github.com/rahul-ramadas/SublimeAllAutocomplete",
         "https://github.com/rahul-ramadas/SublimeFunctionNameDisplay"
     ],
     "schema_version": "3.0.0"
