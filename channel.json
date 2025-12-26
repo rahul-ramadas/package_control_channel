@@ -149,7 +149,7 @@
                     }
                 ]
             }
-        ],
+        ]
     },
     "repositories": [
         "https://github.com/rahul-ramadas/BagOfTricks",
@@ -157,7 +157,7 @@
         "https://github.com/rahul-ramadas/Shell-Turtlestein",
         "https://github.com/rahul-ramadas/sublime-goto-open-file",
         "https://github.com/rahul-ramadas/SublimeAllAutocomplete",
-        "https://github.com/rahul-ramadas/SublimeFunctionNameDisplay",
+        "https://github.com/rahul-ramadas/SublimeFunctionNameDisplay"
     ],
     "schema_version": "3.0.0"
 }
